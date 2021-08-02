@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://twitter.com/sunilthatal**
 
-- ⚡ Fun fact **I love coding**
+- ⚡ Fun fact **I listen Ghazal during coding**
 
 ---
 
