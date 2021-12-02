@@ -49,8 +49,8 @@
 
 
 <h4>👨🏻‍💻 GitHub Usage stats</h4>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatal&layout=compact&theme=tokyonight" alt="thatal"/></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatal&layout=compact&theme=tokyonight" alt="thatal"/>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatal&count_private=true&include_all_commits=true&theme=tokyonight" alt="thatal"/>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatal&count_private=true&include_all_commits=true&theme=tokyonight" alt="thatal"/></p>
-
+</p>
