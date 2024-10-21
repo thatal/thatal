@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatal&label=Profile%20views&color=0e75b6&style=flat" alt="thatal" /> </p>
 
-- 🔭 I’m currently working at [SELLinALL](https://www.sellinall.com/)
+- 🔭 I’m currently working at [Graas](https://www.graas.ai/)
 
 - 🌱 I’m currently learning **Flutter, Spring Boot, Tauri**
 
